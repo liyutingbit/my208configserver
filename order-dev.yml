@@ -1,4 +1,4 @@
-dev: order-dev
+env: order-dev
 eureka:
   client:
     service-url:
